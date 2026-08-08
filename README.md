@@ -79,18 +79,16 @@ Robot
 ![Mini Robot](image/robot.jpg)
 
 Robot2
-![Mini Robot](image/robot1.jpg)
-
-Robot3
 ![Mini Robot](image/robot2.jpg)
 
-Robot4
+Robot3
 ![Mini Robot](image/robot3.jpg)
 
-Robot5
+Robot4
 ![Mini Robot](image/robot4.jpg)
 
-
+Robot5
+![Mini Robot](image/robot5.jpg)
 
 
 Copyright © 2026 TechWithPi. All Rights Reserved.
