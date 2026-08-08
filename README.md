@@ -74,21 +74,25 @@ Built and documented by [TechWithPi](https://www.youtube.com/@TechWithPi1) — E
 🤖 **TechWithPi AI:** [Try TechWithPi AI](https://techwithpi.in/)
 
 
+### Robot
 
-Robot
-![Mini Robot](image/robot.jpg)
+<img src="image/robot.jpg" alt="Robot" width="400">
 
-Robot2
-![Mini Robot](image/robot2.jpg)
+### Robot 2
 
-Robot3
-![Mini Robot](image/robot3.jpg)
+<img src="image/robot2.jpg" alt="Robot 2" width="400">
 
-Robot4
-![Mini Robot](image/robot4.jpg)
+### Robot 3
 
-Robot5
-![Mini Robot](image/robot5.jpg)
+<img src="image/robot3.jpg" alt="Robot 3" width="400">
+
+### Robot 4
+
+<img src="image/robot4.jpg" alt="Robot 4" width="400">
+
+### Robot 5
+
+<img src="image/robot5.jpg" alt="Robot 5" width="400">
 
 
 Copyright © 2026 TechWithPi. All Rights Reserved.
