@@ -73,26 +73,35 @@ A single persistent WebSocket connection avoids the overhead of opening a new HT
 Built and documented by [TechWithPi](https://www.youtube.com/@TechWithPi1) — ESP32, Arduino, robotics and IoT projects.
 🤖 **TechWithPi AI:** [Try TechWithPi AI](https://techwithpi.in/)
 
-
 ### Robot
 
-<img src="image/robot.jpg" alt="Robot" width="400">
+<p align="center">
+  <img src="image/robot.jpg" alt="Robot" width="400">
+</p>
 
 ### Robot 2
 
-<img src="image/robot2.jpg" alt="Robot 2" width="400">
+<p align="center">
+  <img src="image/robot2.jpg" alt="Robot 2" width="400">
+</p>
 
 ### Robot 3
 
-<img src="image/robot3.jpg" alt="Robot 3" width="400">
+<p align="center">
+  <img src="image/robot3.jpg" alt="Robot 3" width="400">
+</p>
 
 ### Robot 4
 
-<img src="image/robot4.jpg" alt="Robot 4" width="400">
+<p align="center">
+  <img src="image/robot4.jpg" alt="Robot 4" width="400">
+</p>
 
 ### Robot 5
 
-<img src="image/robot5.jpg" alt="Robot 5" width="400">
+<p align="center">
+  <img src="image/robot5.jpg" alt="Robot 5" width="400">
+</p>
 
 
 Copyright © 2026 TechWithPi. All Rights Reserved.
